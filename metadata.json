@@ -1,0 +1,6 @@
+{
+  "name": "AGV Store Brasil - Catálogo Oficial",
+  "description": "Loja premium de capacetes, vestuários, jaquetas e acessórios de alta performance com catálogo side-by-side e checkout rápido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
